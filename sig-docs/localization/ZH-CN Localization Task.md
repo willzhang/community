@@ -38,11 +38,11 @@ Please read the following rules before you claim a task:
 | Installing on Kubernetes                                     | Translator                  | PR Link |
 | ------------------------------------------------------------ | --------------------------- | ------- |
 | [Index Page](https://kubesphere.io/docs/installing-on-kubernetes/) | https://github.com/shenhonglei | [427](https://github.com/kubesphere/website/pull/427) |
-| [Overview](https://kubesphere.io/docs/installing-on-kubernetes/introduction/overview/) | https://github.com/willzhang |         |
-| [Prerequisites](https://kubesphere.io/docs/installing-on-kubernetes/introduction/prerequisites/) |                             |         |
-| [Deploy KubeSphere on DigitalOcean](https://kubesphere.io/docs/installing-on-kubernetes/hosted-kubernetes/install-kubesphere-on-do/) |                             |         |
-| [Deploy KubeSphere on GKE](https://kubesphere.io/docs/installing-on-kubernetes/hosted-kubernetes/install-kubesphere-on-gke/) |                             |         |
-| [Deploy KubeSphere on AKS](https://kubesphere.io/docs/installing-on-kubernetes/hosted-kubernetes/install-kubesphere-on-aks/) |                             |         |
+| [Overview](https://kubesphere.io/docs/installing-on-kubernetes/introduction/overview/) | https://github.com/willzhang | [540](https://github.com/kubesphere/website/pull/540)        |
+| [Prerequisites](https://kubesphere.io/docs/installing-on-kubernetes/introduction/prerequisites/) | https://github.com/willzhang |         |
+| [Deploy KubeSphere on DigitalOcean](https://kubesphere.io/docs/installing-on-kubernetes/hosted-kubernetes/install-kubesphere-on-do/) | https://github.com/willzhang |         |
+| [Deploy KubeSphere on GKE](https://kubesphere.io/docs/installing-on-kubernetes/hosted-kubernetes/install-kubesphere-on-gke/) | https://github.com/willzhang |         |
+| [Deploy KubeSphere on AKS](https://kubesphere.io/docs/installing-on-kubernetes/hosted-kubernetes/install-kubesphere-on-aks/) | https://github.com/willzhang |         |
 | [Uninstalling KubeSphere from Kubernetes](https://kubesphere.io/docs/installing-on-kubernetes/uninstalling/uninstalling-kubesphere-from-k8s/) | https://github.com/caojiele |         |
 
 | Multi-cluster Management                                     | Translator | PR Link |
@@ -70,21 +70,21 @@ Please read the following rules before you claim a task:
 | ------------------------------------------------------------ | ---------------------------- | ------- |
 | [Index Page](https://kubesphere.io/docs/upgrade/)            | https://github.com/reneeteng |         |
 | [Overview](https://kubesphere.io/docs/upgrade/upgrade-overview/) | https://github.com/reneeteng |         |
-| [Upgrade with KubeKey](https://kubesphere.io/docs/upgrade/upgrade-with-kubekey/) |                              |         |
-| [Upgrade with ks-installer](https://kubesphere.io/docs/upgrade/upgrade-with-ks-installer/) |                              |         |
+| [Upgrade with KubeKey](https://kubesphere.io/docs/upgrade/upgrade-with-kubekey/) | [Wei Zhang](https://github.com/arugal)     |         |
+| [Upgrade with ks-installer](https://kubesphere.io/docs/upgrade/upgrade-with-ks-installer/) | [Wei Zhang](https://github.com/arugal)   |         |
 | [Changes after Upgrade](https://kubesphere.io/docs/upgrade/what-changed/) | https://github.com/caojiele  |         |
 | [FAQ](https://kubesphere.io/docs/upgrade/upgrade-faq/)       | https://github.com/caojiele  |         |
 
 | Cluster Administration                                       | Translator | PR Link |
 | ------------------------------------------------------------ | ---------- | ------- |
-| [Cluster Status Monitoring](https://kubesphere.io/docs/cluster-administration/cluster-status-monitoring/) | [Kai Zhang](https://github.com/mvpzhangkai)         |         |
-| [Application Resources Monitoring](https://kubesphere.io/docs/cluster-administration/application-resources-monitoring/) | [Kai Zhang](https://github.com/mvpzhangkai) |         |
+| [Cluster Status Monitoring](https://kubesphere.io/docs/cluster-administration/cluster-status-monitoring/) | [Kai Zhang](https://github.com/mvpzhangkai)         |  [478](https://github.com/kubesphere/website/pull/478)       |
+| [Application Resources Monitoring](https://kubesphere.io/docs/cluster-administration/application-resources-monitoring/) | [Kai Zhang](https://github.com/mvpzhangkai) | [544](https://github.com/kubesphere/website/pull/544)        |
 | [Mail Server](https://kubesphere.io/docs/cluster-administration/cluster-settings/mail-server/) | https://github.com/shenhonglei | [458](https://github.com/kubesphere/website/pull/458) |
-| [Node Management](https://kubesphere.io/docs/cluster-administration/nodes/) |  | |
-| [Cluster Shutdown and Restart](https://kubesphere.io/docs/cluster-administration/shuting-down-and-restart-cluster-cracefully/) |  | |
-| [Alerting Policy (Node Level)](https://kubesphere.io/docs/cluster-administration/cluster-wide-alerting-and-notification/alerting-policy/) |  | |
-| [Alerting Message (Node Level)](https://kubesphere.io/docs/cluster-administration/cluster-wide-alerting-and-notification/alerting-message/) |  | |
-| [Index Page](https://kubesphere.io/docs/cluster-administration/) |  | |
+| [Node Management](https://kubesphere.io/docs/cluster-administration/nodes/) | [Kai Zhang](https://github.com/mvpzhangkai) | [557](https://github.com/kubesphere/website/pull/557)|
+| [Cluster Shutdown and Restart](https://kubesphere.io/docs/cluster-administration/shut-down-and-restart-cluster-gracefully/) |[Kai Zhang](https://github.com/mvpzhangkai)  | |
+| [Alerting Policy (Node Level)](https://kubesphere.io/docs/cluster-administration/cluster-wide-alerting-and-notification/alerting-policy/) | [Kai Zhang](https://github.com/mvpzhangkai) | |
+| [Alerting Message (Node Level)](https://kubesphere.io/docs/cluster-administration/cluster-wide-alerting-and-notification/alerting-message/) | [Kai Zhang](https://github.com/mvpzhangkai) | [568](https://github.com/kubesphere/website/pull/568)|
+| [Index Page](https://kubesphere.io/docs/cluster-administration/) | [Kai Zhang](https://github.com/mvpzhangkai) | [559](https://github.com/kubesphere/website/pull/559) |
 
 | Project User Guide                                           | Translator                                    | PR Link                                               |
 | ------------------------------------------------------------ | --------------------------------------------- | ----------------------------------------------------- |
@@ -107,8 +107,31 @@ Please read the following rules before you claim a task:
 
 | DevOps User Guide                                            | Translator | PR Link |
 | ------------------------------------------------------------ | ---------- | ------- |
-| [Index Page](https://kubesphere.io/docs/devops-user-guide/)  |            |         |
-| [Credential Management](https://kubesphere.io/docs/devops-user-guide/how-to-use/credential-management/) |            |         |
-| [Set CI Node for Dependency Cache](https://kubesphere.io/docs/devops-user-guide/how-to-use/set-ci-node/) |            |         |
-| [Set Email Server for KubeSphere Pipelines](https://kubesphere.io/docs/devops-user-guide/how-to-use/jenkins-email/) |            |         |
-| [Integrate SonarQube into Pipeline](https://kubesphere.io/docs/devops-user-guide/how-to-integrate/sonarqube/) |            |         |
+| [Index Page](https://kubesphere.io/docs/devops-user-guide/)  | [Kai Zhang](https://github.com/mvpzhangkai) |         |
+| [Credential Management](https://kubesphere.io/docs/devops-user-guide/how-to-use/credential-management/) | [Kai Zhang](https://github.com/mvpzhangkai) |         |
+| [Set CI Node for Dependency Cache](https://kubesphere.io/docs/devops-user-guide/how-to-use/set-ci-node/) | [Kai Zhang](https://github.com/mvpzhangkai) |         |
+| [Set Email Server for KubeSphere Pipelines](https://kubesphere.io/docs/devops-user-guide/how-to-use/jenkins-email/) | [Kai Zhang](https://github.com/mvpzhangkai) |         |
+| [Integrate SonarQube into Pipeline](https://kubesphere.io/docs/devops-user-guide/how-to-integrate/sonarqube/) | [Kai Zhang](https://github.com/mvpzhangkai) |         |
+| [Choose Jenkins Agent](https://kubesphere.io/docs/devops-user-guide/how-to-use/choose-jenkins-agent/) | [Kai Zhang](https://github.com/mvpzhangkai) |         |
+
+| App Store                                                    | Translator | PR Link |
+| ------------------------------------------------------------ | ---------- | ------- |
+| [Index Page](https://kubesphere.io/docs/application-store/)  |            |         |
+| [Deploy RabbitMQ on KubeSphere](https://kubesphere.io/docs/application-store/built-in-apps/rabbitmq-app/) |            |         |
+| [Deploy MongoDB on KubeSphere](https://kubesphere.io/docs/application-store/built-in-apps/mongodb-app/) |            |         |
+| [Deploy NGINX on KubeSphere](https://kubesphere.io/docs/application-store/built-in-apps/nginx-app/) |            |         |
+| [Deploy Redis on KubeSphere](https://kubesphere.io/docs/application-store/built-in-apps/redis-app/) |            |         |
+| [Deploy Tomcat on KubeSphere](https://kubesphere.io/docs/application-store/built-in-apps/tomcat-app/) |            |         |
+| [Deploy MySQL on KubeSphere](https://kubesphere.io/docs/application-store/built-in-apps/mysql-app/) |            |         |
+| [Deploy etcd on KubeSphere](https://kubesphere.io/docs/application-store/built-in-apps/etcd-app/) |            |         |
+| [Deploy Memcached on KubeSphere](https://kubesphere.io/docs/application-store/built-in-apps/memcached-app/) |            |         |
+| [Deploy MinIO on KubeSphere](https://kubesphere.io/docs/application-store/built-in-apps/minio-app/) |            |         |
+| [Deploy PostgreSQL on KubeSphere](https://kubesphere.io/docs/application-store/built-in-apps/postgresql-app/) |            |         |
+| [Application Lifecycle Management](https://kubesphere.io/docs/application-store/app-lifecycle-management/) |            |         |
+
+| Workspace Administration and User Guide                      | Translator | PR Link |
+| ------------------------------------------------------------ | ---------- | ------- |
+| [Workspace Overview](https://kubesphere.io/docs/workspace-administration/workspace-overview/) |            |         |
+| [Upload Helm-based Applications](https://kubesphere.io/docs/workspace-administration/upload-helm-based-application/) |            |         |
+| [Role and Member Management](https://kubesphere.io/docs/workspace-administration/role-and-member-management/) |            |         |
+| [Import Helm Repository](https://kubesphere.io/docs/workspace-administration/app-repository/import-helm-repository/) |            |         |
